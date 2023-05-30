@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "<your-contract-address>",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/<your-contract-address>",
+  "CONTRACT_ADDRESS": "0x57A50326db1D1650560A1b4d3B78d308dAF8DeE8",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x57A50326db1D1650560A1b4d3B78d308dAF8DeE8",
   "NETWORK": {
     "NAME": "Polygon Mumbai",
     "SYMBOL": "MATIC",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea Testnets",
-  "MARKETPLACE_LINK": "<your-opensea-nft-collection-url>",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/wumidev-polyaliens-1",
   "SHOW_BACKGROUND": false
 }
